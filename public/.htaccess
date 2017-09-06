@@ -1,0 +1,45 @@
+
+
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+
+Redirect 301 /download/lY2yjAdbvdQ/shawn-mendes-treat-you-better /download/shawn-mendes-treat-you-better-mp3
+
+Redirect 301 /download/hot-list-100.php /
+
+Redirect 301 /download/GKSRyLdjsPA/sia-the-greatest /download/sia-the-greatest-mp3
+
+Redirect 301 /download/YnwsMEabmSo/marshmello-alone-monstercat-official-music-video /download/marshmello-alone-monstercat-mp3
+
+Redirect 301 /download/fRh_vgS2dFE/justin-bieber-sorry-purpose-the-movement /download/justin-bieber-sorry-purpose-the-movement-mp3
+
+Redirect 301 /download/kX1O93X77d4 /download/hivi-siapkah-kau-tuk-jatuh-cinta-lagi-mp3
+
+Redirect 301 /download/fJ2ClPjFnB8/justin-timberlake-cant-stop-the-feeling-lyrics-vid /download/justin-timberlake-cant-stop-the-feeling-mp3
+
+Redirect 301 /download/e7eZUGB9HKU/major-lazer-light-it-up-feat-nyla-fuse-odg-remix-o /download/major-lazer-light-it-up-feat-nyla-fuse-odg-remix-mp3
+
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+

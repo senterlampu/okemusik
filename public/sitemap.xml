@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://localhost:8000/vendor/sitemap/styles/xml.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>http://localhost:8000</loc>
+		<priority>1.0</priority>
+		<lastmod>2016-09-10T18:51:41+00:00</lastmod>
+		<changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://localhost:8000/page</loc>
+		<priority>0.8</priority>
+		<lastmod>2016-09-10T18:51:41+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>Cash Cash - How To Love ft. Sofia Reyes [Premiere]</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>The Feeling - Justin Bieber Ft Halsey (Audio)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>OneRepublic - Wherever I Go (Audio)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Rise - Katy Perry (AUDIO)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Twenty One Pilots - Heathens (Prismo Remix)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Hailee Steinfeld - Rock Bottom (Lyric Video) ft. DNCE</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Bastille - Good Grief (Lyrics Video)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Girls Talk Boys (from the "Ghostbusters" Original Motion Picture Soundtrack)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Adam Levine - Go Now (from Sing Street)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Kungs vs Cookin’ on 3 Burners - This Girl (Lyric Video)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Flume - Say It feat. Tove Lo</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>DNCE - Toothbrush (Audio)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Little Mix: Hair FT. Sean Paul - Lyrics</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>DJ Snake ft. Justin Bieber - Let Me Love You (Roostz Ft. Eric Lumiere Cover)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Galantis - No Money (Official Video)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Special Performance Dipha Barus Ft. Kalulla - No One Can Stop Us</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:21:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Selena Gomez - Kill Em With Kindness</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:20:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Mike Posner - I Took A Pill In Ibiza (Original)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:20:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Major Lazer - Cold Water (feat. Justin Bieber &amp; MØ) (Official Lyric Video)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T18:20:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Zeitgeist 2010: Year in Review</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Zeitgeist 2011: Year In Review</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Zeitgeist 2012: Year In Review</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google Zeitgeist: 2013年を振り返ろう</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google Zeitgeist - L'année 2013 en recherches</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google Zeitgeist - 2013 als Suche</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google Zeitgeist - 2013 in Searches</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google Zeitgeist | Here's to 2013</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:06:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Zeitgeist 2012: Year In Review (US TV edit)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google – Год в Поиске 2014</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google - Pesquisas do Ano 2014</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>El año en búsquedas 2014</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google - L'année 2014 en recherches</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google - Year in Search: 検索で振り返る 2014</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google - Year in Search 2014</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google Jahresrückblick 2014</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google - Year In Search 2014</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Google - Year In Search 2015</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:05:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Justin Timberlake - Can't Stop the Feeling ( Lyrics Video )</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Raisa - Kali Kedua (Official Lyric Video)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>David Guetta ft. Zara Larsson - This One's For You (Music Video) (UEFA EURO 2016™ Official Song)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Coldplay - Up&amp;Up (Official video)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Zara Larsson - Lush Life (Audio)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Sia - Cheap Thrills Ft. Sean Paul [Lyrics] |New 2016|</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Alan Walker - Faded</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Adele - Send My Love (To Your New Lover)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>gnash - i hate u, i love u (ft. olivia o'brien)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+  <url>
+    <loc>Shawn Mendes - Treat You Better (lyrics)</loc>
+		<priority>0.5</priority>
+		<lastmod>2016-09-10T05:04:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic1.jpg</image:loc>
+			<image:title>Image title</image:title>
+			<image:caption>Image caption</image:caption>
+			<image:geo_location>Plovdiv, Bulgaria</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic2.jpg</image:loc>
+			<image:title>Image title2</image:title>
+			<image:caption>Image caption2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://localhost:8000/images/pic3.jpg</image:loc>
+			<image:title>Image title3</image:title>
+		</image:image>
+  </url>
+</urlset>
+

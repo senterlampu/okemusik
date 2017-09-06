@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /download/showcontent.php
+Disallow: /download/showvideo.php
+Disallow: /mp3/*
+Disallow: /top-chart/*
+Disallow: /category/*
+
+Sitemap: http://okemusik.com/sitemapv1.xml

@@ -1,0 +1,36 @@
+/* Very Simple Contact Form */
+
+/* Form */
+#vscf {width:100%; clear:both; margin:0; padding:0; border:0;}
+
+/* Paragraph tag */
+#vscf p {margin:0 0 10px;}
+
+/* Label and input fields */
+#vscf label {font-size:1em; text-transform:none; font-weight:normal;}
+#vscf input, #vscf textarea {font-size:1em; -webkit-appearance:none; -moz-appearance:none;}
+#vscf_name, #vscf_email, #vscf_subject, #vscf_captcha, #vscf_firstname, #vscf_lastname {width:70%;}
+#vscf_message {width:90%;}
+
+/* Hide the 2 honeypot fields */
+#vscf_firstname, #vscf_lastname {visibility:hidden; display:none;}
+
+/* Submit button */
+#vscf_send {}
+
+/* Input fields error */
+#vscf input.error, #vscf textarea.error {border-color:#e77776; color:#e77776;}
+
+/* Label text error */
+#vscf span.error {color:#e77776;}
+
+/* Hide element */
+#vscf .hide {display:none;}
+
+/* Error and thank you message above form */
+.vscf-info {margin:0 0 10px; font-style:italic; font-size:1.20em;}
+
+/* Widget */
+.vscf-sidebar {}
+.vscf-sidebar-text {}
+#vscf_widget_send {}
